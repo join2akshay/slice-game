@@ -25,3 +25,24 @@ html body
     padding-top: 15px;
 
 }
+
+
+#start
+{
+    width: 150px;
+    height: 30px;
+    background-color: rgb(42, 89, 192);
+    margin: 10px auto;
+    text-align: center;
+    padding-top: 13px;
+}
+#over
+{
+    width: 550px;
+    height: 250px;
+    background-color: rgba(12, 141, 70, 0.973);
+    position: absolute;
+    margin: 80px;
+    display: none;
+
+}
