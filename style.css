@@ -12,6 +12,7 @@ html body
     margin: 50px auto;
     margin-bottom: 0px;
     position: relative;
+     overflow: hidden;
 }
 #des
 {
@@ -65,4 +66,17 @@ html body
     margin-left: 10px;
    position: absolute;
    float: right;
+}
+#fruit1
+{
+    display: none;
+    position: absolute;
+}
+
+#over
+{
+    font-size: 40px;
+    font-weight: 300;
+    text-align: center;
+    color: antiquewhite;
 }
