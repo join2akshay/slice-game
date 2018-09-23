@@ -35,7 +35,7 @@ function life(lifeleft) {
     $("#life").empty();
     console.log("final "+lifeleft)
     for (i = 0; i < lifeleft; i++) {
-        $("#life").append('<img src="images/heart.png" class="life"></img>');
+        $("#life").append('<img src="image/heart.png" class="life"></img>');
     }
 }
 
